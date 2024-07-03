@@ -7,7 +7,7 @@ Thanks for checking out this Repo
 ![Design](./design/screenshot1.png)
 ## Links
 
-- Live Site URL: [Live]()
+- Live Site URL: [Live](https://crypto-versee.netlify.app/)
 
 ## Overview
 
